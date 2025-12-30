@@ -88,6 +88,5 @@ Sürekli öğrenmeye ve bilgi paylaşmaya inanıyorum. Teknik deneyimlerimi [blo
 
 ![Profile Views](https://komarev.com/ghpvc/?username=canberkys&color=fa5005&style=flat-square&label=Profil+Görüntüleme)
 
-*"Sürekli öğrenme ve kendini geliştirme, BT altyapı çözümlerinde yenilikçi yaklaşımlar sunmanın anahtarıdır."*
 
 </div>
