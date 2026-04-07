@@ -30,7 +30,6 @@ I believe in continuous learning and knowledge sharing. I write about my technic
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![vSphere](https://img.shields.io/badge/vSphere-607078?style=flat-square&logo=vmware&logoColor=white)
 ![vSAN](https://img.shields.io/badge/vSAN-607078?style=flat-square&logo=vmware&logoColor=white)
-![NSX](https://img.shields.io/badge/NSX-607078?style=flat-square&logo=vmware&logoColor=white)
 ![VCF](https://img.shields.io/badge/VCF-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Private Cloud](https://img.shields.io/badge/Private_Cloud-326CE5?style=flat-square&logo=icloud&logoColor=white)
 
