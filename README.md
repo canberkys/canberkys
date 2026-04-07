@@ -72,8 +72,12 @@ I believe in continuous learning and knowledge sharing. I write about my technic
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=canberkys&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canberkys&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170"/>
+<a href="https://github.com/canberkys">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canberkys&hide_border=true" alt="GitHub Streak" height="170"/>
+</a>
+<a href="https://github.com/canberkys">
+  <img src="https://github-readme-stats-canberkys.vercel.app/api/top-langs/?username=canberkys&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
+</a>
 
 </div>
 
