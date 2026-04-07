@@ -16,7 +16,7 @@
 
 ## About Me
 
-Infrastructure & Virtualization Engineer with **8+ years of experience** across insurance, banking, and finance sectors. Currently managing datacenter infrastructure at **Odeabank A.S.**
+Infrastructure & Virtualization Engineer with **10+ years of experience** across insurance, banking, and finance sectors. Currently managing datacenter infrastructure at **Odeabank A.S.**
 
 I believe in continuous learning and knowledge sharing. I write about my technical experiences on my [blog](https://canberkki.com) and build open-source **PowerCLI** and **Python** tools on GitHub.
 
@@ -61,7 +61,7 @@ I believe in continuous learning and knowledge sharing. I write about my technic
 
 | Certification | Issuer |
 |---------------|--------|
-| **VMware vExpert** | VMware / Broadcom |
+| **VMware vExpert** 24',25',26' | VMware / Broadcom |
 | **VCP-DCV** (VMware Certified Professional - Data Center Virtualization) | VMware / Broadcom |
 
 </div>
