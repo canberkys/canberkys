@@ -1,11 +1,12 @@
 <div align="center">
 
-# Merhaba! 👋 Ben Canberk Kılıçarslan
+# Merhaba! Ben Canberk Kilicarslan
 
-### Expert System Engineer | VMware vExpert, VCD-DCV | Infrastructure Specialist
+### Expert System Engineer | VMware vExpert, VCP-DCV | Infrastructure Specialist
 
 [![Website](https://img.shields.io/badge/Website-canberkki.com-fa5005?style=for-the-badge&logo=google-chrome&logoColor=white)](https://canberkki.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/canberkkilicarslan)
+[![X](https://img.shields.io/badge/X-@canberkki-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/canberkki)
 [![VMware vExpert](https://img.shields.io/badge/VMware-vExpert-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://vexpert.vmware.com/directory/11951)
 [![Email](https://img.shields.io/badge/Email-ck@canberkki.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ck@canberkki.com)
 
@@ -13,38 +14,39 @@
 
 ---
 
-## 🧑‍💻 Hakkımda
+## About Me
 
-2018'den bu yana bilişim sektöründe, **sigorta, bankacılık ve finans** alanında deneyimli bir **Sistem Mühendisiyim**. Şu anda **Odeabank A.Ş.**'de altyapı yönetiminden sorumluyum.
+Infrastructure & Virtualization Engineer with **8+ years of experience** across insurance, banking, and finance sectors. Currently managing datacenter infrastructure at **Odeabank A.S.**
 
-Sürekli öğrenmeye ve bilgi paylaşmaya inanıyorum. Teknik deneyimlerimi [blog yazılarımda](https://canberkki.com) paylaşıyor, GitHub'da **PowerCLI** ve **Python** projeleri geliştiriyorum.
+I believe in continuous learning and knowledge sharing. I write about my technical experiences on my [blog](https://canberkki.com) and build open-source **PowerCLI** and **Python** tools on GitHub.
 
 ---
 
-## 🛠️ Teknoloji & Araçlar
+## Tech Stack
 
 <div align="center">
 
-### Sanallaştırma & Cloud
+### Virtualization & Cloud
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![vSphere](https://img.shields.io/badge/vSphere-607078?style=flat-square&logo=vmware&logoColor=white)
 ![vSAN](https://img.shields.io/badge/vSAN-607078?style=flat-square&logo=vmware&logoColor=white)
 ![NSX](https://img.shields.io/badge/NSX-607078?style=flat-square&logo=vmware&logoColor=white)
+![VCF](https://img.shields.io/badge/VCF-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Private Cloud](https://img.shields.io/badge/Private_Cloud-326CE5?style=flat-square&logo=icloud&logoColor=white)
 
-### İşletim Sistemleri
+### Operating Systems
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
 
-### Scripting & Otomasyon
+### Scripting & Automation
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![PowerCLI](https://img.shields.io/badge/PowerCLI-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### Donanım
+### Hardware
 ![Dell](https://img.shields.io/badge/Dell_EMC-007DB8?style=flat-square&logo=dell&logoColor=white)
 ![HPE](https://img.shields.io/badge/HPE-01A982?style=flat-square&logo=hp&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
@@ -53,40 +55,47 @@ Sürekli öğrenmeye ve bilgi paylaşmaya inanıyorum. Teknik deneyimlerimi [blo
 
 ---
 
-## 🏆 Sertifikalar
+## Certifications
 
 <div align="center">
 
-| Sertifika | Kurum |
-|-----------|-------|
-| 🏅 **VMware vExpert** | VMware |
-| 📜 **VCP-DCV** (VMware Certified Professional - Data Center Virtualization) | VMware |
+| Certification | Issuer |
+|---------------|--------|
+| **VMware vExpert** | VMware / Broadcom |
+| **VCP-DCV** (VMware Certified Professional - Data Center Virtualization) | VMware / Broadcom |
 
 </div>
 
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=canberkys&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canberkys&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170"/>
+
+</div>
 
 ---
 
-## 📝 Son Blog Yazıları
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-🔗 Blog yazılarım için [canberkki.com](https://canberkki.com) adresini ziyaret edin!
+Visit [canberkki.com](https://canberkki.com) for my latest posts!
 <!-- BLOG-POST-LIST:END -->
-
-
 
 ---
 
 <div align="center">
 
-### 📫 Benimle İletişime Geçin
+### Get in Touch
 
-[![Website](https://img.shields.io/badge/🌐_Website-canberkki.com-fa5005?style=for-the-badge)](https://canberkki.com)
-[![Email](https://img.shields.io/badge/📧_Email-ck@canberkki.com-fa5005?style=for-the-badge)](mailto:ck@canberkki.com)
+[![Website](https://img.shields.io/badge/Website-canberkki.com-fa5005?style=for-the-badge&logo=google-chrome&logoColor=white)](https://canberkki.com)
+[![Email](https://img.shields.io/badge/Email-ck@canberkki.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ck@canberkki.com)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=canberkys&color=fa5005&style=flat-square&label=Profil+Görüntüleme)
-
+![Profile Views](https://komarev.com/ghpvc/?username=canberkys&color=fa5005&style=flat-square&label=Profile+Views)
 
 </div>
