@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:607078,100:1b78ff&height=160&section=header&text=Canberk%20K%C4%B1l%C4%B1%C3%A7arslan&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Infrastructure%20Engineer%20%C2%B7%20VMware%20vExpert%20%C2%B7%20macOS%20Developer&descSize=14&descAlignY=60&descColor=cdd6f4" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=1B78FF&center=true&vCenter=true&multiline=true&width=620&height=70&lines=10%2B+years+in+datacenter+%26+virtualization;VMware+vExpert+%E2%80%9924+%C2%B7+%E2%80%9925+%C2%B7+%E2%80%9926+%C2%B7+VCP-DCV;Building+native+macOS+apps+in+Swift+at+night+%F0%9F%8C%99)](https://github.com/canberkys)
+**10+ years in Infrastructure & virtualization**<br>
+VMware vExpert '24 · '25 · '26 · VCP-DCV<br>
+Building native macOS apps in Swift at night 🌙
 
 </div>
 
