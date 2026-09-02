@@ -1,89 +1,38 @@
-<div align="center">
+# Canberk Kılıçarslan
 
-# Merhaba! Ben Canberk Kilicarslan
+Infrastructure & Virtualization Engineer at **Odeabank**, Istanbul.  
+VMware vExpert '24–'26 · VCP-DCV · 10+ years in datacenter.
 
-### Expert System Engineer | VMware vExpert, VCP-DCV | Infrastructure Specialist
-
-[![Website](https://img.shields.io/badge/Website-canberkki.com-fa5005?style=for-the-badge&logo=google-chrome&logoColor=white)](https://canberkki.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/canberkkilicarslan)
-[![X](https://img.shields.io/badge/X-@canberkki-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/canberkki)
-[![VMware vExpert](https://img.shields.io/badge/VMware-vExpert-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://vexpert.vmware.com/directory/11951)
-[![Email](https://img.shields.io/badge/Email-ck@canberkki.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ck@canberkki.com)
-
-</div>
+By day I design vSphere clusters and private cloud infrastructure, and write PowerCLI automation.  
+By night I build native macOS apps in Swift — mostly tools I wish already existed.
 
 ---
 
-## About Me
+### Open source
 
-Infrastructure & Virtualization Engineer with **10+ years of experience** across insurance, banking, and finance sectors. Currently managing datacenter infrastructure at **Odeabank A.S.**
-
-I believe in continuous learning and knowledge sharing. I write about my technical experiences on my [blog](https://canberkki.com) and build open-source **PowerCLI** and **Python** tools on GitHub.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Virtualization & Cloud
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![vSphere](https://img.shields.io/badge/vSphere-607078?style=flat-square&logo=vmware&logoColor=white)
-![vSAN](https://img.shields.io/badge/vSAN-607078?style=flat-square&logo=vmware&logoColor=white)
-![VCF](https://img.shields.io/badge/VCF-607078?style=flat-square&logo=vmware&logoColor=white)
-![Private Cloud](https://img.shields.io/badge/Private_Cloud-326CE5?style=flat-square&logo=icloud&logoColor=white)
-
-### Operating Systems
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
-
-### Scripting & Automation
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![PowerCLI](https://img.shields.io/badge/PowerCLI-607078?style=flat-square&logo=vmware&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-### Hardware
-![Dell](https://img.shields.io/badge/Dell_EMC-007DB8?style=flat-square&logo=dell&logoColor=white)
-![HPE](https://img.shields.io/badge/HPE-01A982?style=flat-square&logo=hp&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-</div>
+| | |
+|---|---|
+| [**PkgLens**](https://github.com/canberkys/pkglens) | Unified package manager dashboard for macOS — Homebrew, npm, pip, Cargo, RubyGems in one window |
+| [**iPScanner**](https://github.com/canberkys/iPScanner) | Native macOS network scanner, open-source alternative to Advanced IP Scanner |
+| [**VMware Snapshot Reporter**](https://github.com/canberkys/VMware-Snapshot-Reporter) | Multi-vCenter snapshot monitoring with color-coded HTML reports |
+| [**vsphere-vcf-readiness**](https://github.com/canberkys/vsphere-vcf-readiness) | vSphere 7/8 → VCF 9 migration readiness assessment tool |
 
 ---
 
-## Certifications
+### Certifications
 
-<div align="center">
-
-| Certification | Issuer |
-|---------------|--------|
-| **VMware vExpert** 24',25',26' | VMware / Broadcom |
-| **VCP-DCV** (VMware Certified Professional - Data Center Virtualization) | VMware / Broadcom |
-
-</div>
+**VMware vExpert** 2024 · 2025 · 2026 &nbsp;·&nbsp; **VCP-DCV** (VMware Certified Professional – Data Center Virtualization)
 
 ---
 
-## Latest Blog Posts
+### Stack
 
-<!-- BLOG-POST-LIST:START -->
-Visit [canberkki.com](https://canberkki.com) for my latest posts!
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-
-### Get in Touch
-
-[![Website](https://img.shields.io/badge/Website-canberkki.com-fa5005?style=for-the-badge&logo=google-chrome&logoColor=white)](https://canberkki.com)
-[![Email](https://img.shields.io/badge/Email-ck@canberkki.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ck@canberkki.com)
+**Virtualization:** VMware vSphere · vSAN · VCF · NSX · Private Cloud  
+**Scripting:** PowerShell · PowerCLI · Python · Bash  
+**OS:** Windows Server · Linux (RHEL, Ubuntu)  
+**Hardware:** Dell EMC · HPE · Cisco  
+**Hobby:** Swift · SwiftUI · macOS
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=canberkys&color=fa5005&style=flat-square&label=Profile+Views)
-
-</div>
+[canberkki.com](https://canberkki.com) &nbsp;·&nbsp; [ck@canberkki.com](mailto:ck@canberkki.com) &nbsp;·&nbsp; [@canberkki](https://x.com/canberkki) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/canberkkilicarslan) &nbsp;·&nbsp; [vExpert](https://vexpert.vmware.com/directory/11951)
