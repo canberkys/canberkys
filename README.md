@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:607078,100:1b78ff&height=160&section=header&text=Canberk%20K%C4%B1l%C4%B1%C3%A7arslan&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Infrastructure%20Engineer%20%C2%B7%20VMware%20vExpert%20%C2%B7%20macOS%20Developer&descSize=14&descAlignY=60&descColor=cdd6f4" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:607078,100:1b78ff&height=160&section=header&text=Canberk%20K%C4%B1l%C4%B1%C3%A7arslan&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Infrastructure%20%26%20Virtualization%20Engineer%20%C2%B7%20VMware%20vExpert%20%C2%B7%20Istanbul&descSize=13&descAlignY=60&descColor=cdd6f4" width="100%">
 
-**10+ years in Infrastructure & virtualization**<br>
+**10+ years in Infrastructure & Virtualization**<br>
 VMware vExpert '24 · '25 · '26 · VCP-DCV<br>
-Building native macOS apps in Swift at night 🌙
+Always building something at night 🌙
 
 </div>
 
@@ -30,11 +30,6 @@ Building native macOS apps in Swift at night 🌙
 <div align="center">
 
 ### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=canberkys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=1b78ff&text_color=c9d1d9&icon_color=1b78ff" height="170" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canberkys&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=1b78ff&text_color=c9d1d9" height="170" alt="Top Languages">
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=canberkys&theme=tokyonight&hide_border=true&background=0d1117&ring=1b78ff&fire=1b78ff&currStreakLabel=1b78ff" alt="GitHub Streak">
 
