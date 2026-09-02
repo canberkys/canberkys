@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:607078,100:1b78ff&height=160&section=header&text=Canberk%20K%C4%B1l%C4%B1%C3%A7arslan&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Infrastructure%20Engineer%20%C2%B7%20VMware%20vExpert%20%C2%B7%20macOS%20Developer&descSize=14&descAlignY=60&descColor=cdd6f4" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=1B78FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=10%2B+years+in+datacenter+%26+virtualization;VMware+vExpert+%E2%80%9924+%C2%B7+%E2%80%9925+%C2%B7+%E2%80%9926+%C2%B7+VCP-DCV;Building+native+macOS+apps+in+Swift+at+night)](https://github.com/canberkys)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=1B78FF&center=true&vCenter=true&multiline=true&width=620&height=70&lines=10%2B+years+in+datacenter+%26+virtualization;VMware+vExpert+%E2%80%9924+%C2%B7+%E2%80%9925+%C2%B7+%E2%80%9926+%C2%B7+VCP-DCV;Building+native+macOS+apps+in+Swift+at+night+%F0%9F%8C%99)](https://github.com/canberkys)
 
 </div>
 
@@ -12,7 +12,14 @@
 
 ### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=vmware,powershell,python,bash,swift,linux,windows,github&theme=dark)](https://github.com/canberkys)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![vSphere](https://img.shields.io/badge/vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
@@ -22,12 +29,12 @@
 
 ### GitHub Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=canberkys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canberkys&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=canberkys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=1b78ff&text_color=c9d1d9&icon_color=1b78ff" height="170" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canberkys&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=1b78ff&text_color=c9d1d9" height="170" alt="Top Languages">
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=canberkys&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=canberkys&theme=tokyonight&hide_border=true&background=0d1117&ring=1b78ff&fire=1b78ff&currStreakLabel=1b78ff" alt="GitHub Streak">
 
 </div>
 
