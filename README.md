@@ -1,7 +1,7 @@
 # Canberk Kılıçarslan
 
 Infrastructure & Virtualization Engineer at **Odeabank**, Istanbul.  
-VMware vExpert '24–'26 · VCP-DCV · 10+ years in datacenter.
+VMware vExpert '24–'26 · VCP-DCV · 10+ years in Infrastructure.
 
 By day I design vSphere clusters and private cloud infrastructure, and write PowerCLI automation.  
 By night I build native macOS apps in Swift — mostly tools I wish already existed.
@@ -27,10 +27,10 @@ By night I build native macOS apps in Swift — mostly tools I wish already exis
 
 ### Stack
 
-**Virtualization:** VMware vSphere · vSAN · VCF · NSX · Private Cloud  
+**Virtualization:** VMware vSphere · vSAN · VCF · Private Cloud  
 **Scripting:** PowerShell · PowerCLI · Python · Bash  
 **OS:** Windows Server · Linux (RHEL, Ubuntu)  
-**Hardware:** Dell EMC · HPE · Cisco  
+**Hardware:** Dell · HPE · Cisco  
 **Hobby:** Swift · SwiftUI · macOS
 
 ---
