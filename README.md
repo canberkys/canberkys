@@ -1,10 +1,35 @@
-# Canberk Kılıçarslan
+<div align="center">
 
-Infrastructure & Virtualization Engineer at **Odeabank**, Istanbul.  
-VMware vExpert '24–'26 · VCP-DCV · 10+ years in Infrastructure.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:607078,100:1b78ff&height=160&section=header&text=Canberk%20K%C4%B1l%C4%B1%C3%A7arslan&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Infrastructure%20Engineer%20%C2%B7%20VMware%20vExpert%20%C2%B7%20macOS%20Developer&descSize=14&descAlignY=60&descColor=cdd6f4" width="100%">
 
-By day I design vSphere clusters and private cloud infrastructure, and write PowerCLI automation.  
-By night I build native macOS apps in Swift — mostly tools I wish already existed.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=1B78FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=10%2B+years+in+datacenter+%26+virtualization;VMware+vExpert+%E2%80%9924+%C2%B7+%E2%80%9925+%C2%B7+%E2%80%9926+%C2%B7+VCP-DCV;Building+native+macOS+apps+in+Swift+at+night)](https://github.com/canberkys)
+
+</div>
+
+---
+
+<div align="center">
+
+### Stack
+
+[![My Skills](https://skillicons.dev/icons?i=vmware,powershell,python,bash,swift,linux,windows,github&theme=dark)](https://github.com/canberkys)
+
+</div>
+
+---
+
+<div align="center">
+
+### GitHub Stats
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=canberkys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canberkys&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=canberkys&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+</div>
 
 ---
 
@@ -12,27 +37,21 @@ By night I build native macOS apps in Swift — mostly tools I wish already exis
 
 | | |
 |---|---|
-| [**PkgLens**](https://github.com/canberkys/pkglens) | Unified package manager dashboard for macOS — Homebrew, npm, pip, Cargo, RubyGems in one window |
-| [**iPScanner**](https://github.com/canberkys/iPScanner) | Native macOS network scanner, open-source alternative to Advanced IP Scanner |
+| [**PkgLens**](https://github.com/canberkys/pkglens) | Unified package manager dashboard for macOS — Homebrew, npm, pip, Cargo, RubyGems |
+| [**iPScanner**](https://github.com/canberkys/iPScanner) | Native macOS network scanner, open-source Advanced IP Scanner alternative |
 | [**VMware Snapshot Reporter**](https://github.com/canberkys/VMware-Snapshot-Reporter) | Multi-vCenter snapshot monitoring with color-coded HTML reports |
 | [**vsphere-vcf-readiness**](https://github.com/canberkys/vsphere-vcf-readiness) | vSphere 7/8 → VCF 9 migration readiness assessment tool |
 
 ---
 
-### Certifications
+<div align="center">
 
-**VMware vExpert** 2024 · 2025 · 2026 &nbsp;·&nbsp; **VCP-DCV** (VMware Certified Professional – Data Center Virtualization)
+[![Website](https://img.shields.io/badge/canberkki.com-fa5005?style=flat-square&logo=google-chrome&logoColor=white)](https://canberkki.com)
+[![X](https://img.shields.io/badge/@canberkki-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/canberkki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/canberkkilicarslan)
+[![vExpert](https://img.shields.io/badge/VMware_vExpert-607078?style=flat-square&logo=vmware&logoColor=white)](https://vexpert.vmware.com/directory/11951)
+[![Email](https://img.shields.io/badge/ck@canberkki.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ck@canberkki.com)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b78ff,100:607078&height=80&section=footer" width="100%">
 
-### Stack
-
-**Virtualization:** VMware vSphere · vSAN · VCF · Private Cloud  
-**Scripting:** PowerShell · PowerCLI · Python · Bash  
-**OS:** Windows Server · Linux (RHEL, Ubuntu)  
-**Hardware:** Dell · HPE · Cisco  
-**Hobby:** Swift · SwiftUI · macOS
-
----
-
-[canberkki.com](https://canberkki.com) &nbsp;·&nbsp; [ck@canberkki.com](mailto:ck@canberkki.com) &nbsp;·&nbsp; [@canberkki](https://x.com/canberkki) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/canberkkilicarslan) &nbsp;·&nbsp; [vExpert](https://vexpert.vmware.com/directory/11951)
+</div>
