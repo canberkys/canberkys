@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:607078,100:1b78ff&height=160&section=header&text=Canberk%20K%C4%B1l%C4%B1%C3%A7arslan&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Infrastructure%20%26%20Virtualization%20Engineer%20%C2%B7%20VMware%20vExpert%20%C2%B7%20Istanbul&descSize=13&descAlignY=60&descColor=cdd6f4" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:607078,100:1b78ff&height=140&section=header&text=Canberk%20K%C4%B1l%C4%B1%C3%A7arslan&fontSize=40&fontColor=ffffff&fontAlignY=50" width="100%">
 
-**10+ years in Infrastructure & Virtualization**<br>
-VMware vExpert '24 · '25 · '26 · VCP-DCV<br>
+**Infrastructure & Virtualization Engineer · Odeabank · Istanbul**<br>
+VMware vExpert '24 · '25 · '26 &nbsp;·&nbsp; VCP-DCV<br>
 Always building something at night 🌙
 
 </div>
